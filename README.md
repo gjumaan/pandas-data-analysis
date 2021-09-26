@@ -85,7 +85,7 @@ Your final report should include each of the following:
 
 * Although the percentage of male players (84.03%) are significantly greater compared to female (14.06%) or other players (1.91%), both female and other players had a greater average total purchase per person compared to male players. Female players on average purchased $4.47 worth of items and other players on average purchased $4.56 worth of items while male players on average only purchased $4.07 worth of items. 
 
-* The game is extremely popular among young adults within the age range of 20-24 as they constitute 44.79% of the player base. However, the game is not very popular amoung the youth that are younger than 10 years old (2.95%) and within the age of range of 10-14 (3.82%). 
+* The game is extremely popular among young adults within the age group of 20-24 as they constitute 44.79% of the player base. However, the game is not very popular amoung the youth that are younger than 10 years old (2.95%) and within the age group of 10-14 (3.82%). 
 
 * Items that are popular among the player base also tended to be the most profitable items. Items such as Oathbreaker, Fiery Glass Crusader, and Nirvana were both popular and the most profitable in-game items offered by the game. 
 
